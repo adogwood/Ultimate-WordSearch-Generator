@@ -84,6 +84,6 @@ If you have questions regarding the license or the program itself, please contac
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or want to report issues, please open an issue or submit a pull request.
-```
+
 
 
